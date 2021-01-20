@@ -18,6 +18,12 @@ body {
 
 }
 
+#cabecera #logo{
+
+    width: 20px;
+    vertical-align: middle;
+}
+
 #container h1{
 
     font-size: 20px;
@@ -43,4 +49,10 @@ body {
     font-size: 0.8em;
 
 
+}
+
+#post{
+
+    background: blanchedalmond;
+    padding: 1cm;
 }
